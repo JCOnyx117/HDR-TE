@@ -32,7 +32,7 @@ Additionally, delete the following files from the hdr mod folders to prevent con
 If you modify the ui_stage_db.prcxml the stages that show up on the SSS will of course change as well.
 
 
-=============================================================================================================
+========================================================
 
 -- Changing the number of stages displayed on the SSS --
 
@@ -60,7 +60,7 @@ your SD Cards mods folder. It's a safe practice to delete the folder first thoug
 This is actually way easier to do than it reads, I promise you. Enjoy your TE build with something other than a 10 stage ruleset if that's what your event is looking for.
 
 
-=============================================================================================================
+========================================================
 
 For customizing your stagelists, I've included a modified Stage Icons (Stage_1).psd from JoBen's vanilla TE mod with a large amount of new HQ icons for the modified HDR stages.
 Not every stage is included, but you should be able to find most stages one would look for in a competitive enviroment. Provided I could work with the in game camera.
