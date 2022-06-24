@@ -1,0 +1,6 @@
+1.1 | Public Release
+1.2 | Deadline loading Big Battlefield fix
+1.3 | 11 Stage List option added (6 above 5 below)
+1.4 | Adjusted for v0.11.16B. 
+ - Battlefield, Small Battlefield, FD, and PS2 icons adjusted to match new stage skins
+ - Added Super Happy Tree, Frigate Orpheon, Suzaku Castle, Kongo Jungle, Great Bay, and Great Plateau Tower icons to the psd
