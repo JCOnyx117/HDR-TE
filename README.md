@@ -1,6 +1,7 @@
 # HDR-TE
 Tournament Build for HDR
 
+
 To use this mod, here are the key steps and a few tips on customizing it with the additional files provided in the hdrTE_images folder.
 The hdr-te folder goes into the root:\ultimate\mods folder of your SD card with the rest of the base hdr folders.
 
