@@ -17,9 +17,7 @@ Additionally, delete the following files from the hdr mod folders to prevent con
 [mods\hdr-stages\ui\replace\stage\stage_1]**
 - stage_1_battlefield.bntx
 - stage_1_end.bntx
-- stage_1_ff_midgar.btnx
 - stage_1_mario_paper.bntx
-- stage_1_poke_stadium2.bntx
 - stage_1_streetpass.bntx
 - stage_1_zelda_gerudo.bntx
 
